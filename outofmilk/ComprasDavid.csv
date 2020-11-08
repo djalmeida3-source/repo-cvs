@@ -17,7 +17,7 @@ description,upc,quantity,done,unit,price,note,coupon_amount,coupon_type,coupon_n
 "Esponja estrella  verde Mega",,1.0,False,NOT_SPECIFIED,3.0,"",0.0,AMOUNT,"",True,Hogar
 "Doña criollita sobres Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
 "Arena gatos Alta Gama 4kg Mega",,2.0,False,NOT_SPECIFIED,8.29,"",0.0,AMOUNT,"",True,Mascotas
-"Tortitas Rojas",,1.0,False,NOT_SPECIFIED,2.0,"",0.0,AMOUNT,"",False,Sin categoría
+"Tortitas Rojas Amarillas",,1.0,False,NOT_SPECIFIED,3.0,"",0.0,AMOUNT,"",False,Sin categoría
 "Maicena Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
 "Ajo molido 250g Mega",,1.0,False,NOT_SPECIFIED,1.96,"",0.0,AMOUNT,"",True,Abarrotes
 "Champiñones Cepa 220g Mega",,1.0,False,NOT_SPECIFIED,1.46,"",0.0,AMOUNT,"",True,Frutas y Legumbres

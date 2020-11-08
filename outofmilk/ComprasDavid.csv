@@ -1,101 +1,101 @@
 description,upc,quantity,done,unit,price,note,coupon_amount,coupon_type,coupon_note,tax_free,category
-"Naranjilla 6u Mega",,1.0,False,NOT_SPECIFIED,1.25,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Queso crema tony light Mega",,1.0,False,NOT_SPECIFIED,3.0,"",0.0,AMOUNT,"",True,Lacteos
-"Desodorante papa old spice Mega",,1.0,False,NOT_SPECIFIED,4.72,"",0.0,AMOUNT,"",True,Higene
-"Toallas de cocina 2u Mega",,1.0,False,NOT_SPECIFIED,2.65,"",0.0,AMOUNT,"",False,Limpieza
-"Naranjas 10u Mega",,1.0,False,NOT_SPECIFIED,2.16,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Comida gatos Michu 2kg Mega",,2.0,False,NOT_SPECIFIED,5.37,"",0.0,AMOUNT,"",True,Mascotas
-"Pepinillos 2u Mega",,1.0,False,NOT_SPECIFIED,0.5,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Cereal corn flakes 110g Mea",,1.0,False,NOT_SPECIFIED,1.14,"",0.0,AMOUNT,"",True,Abarrotes
-"Papaya hawayana 2u Mega",,1.0,False,NOT_SPECIFIED,0.73,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Toallas de cocina 2 en 1 Mega",,4.0,False,NOT_SPECIFIED,2.65,"",0.0,AMOUNT,"",True,Limpieza
-"Carne Molida 1u Mega",,2.0,False,NOT_SPECIFIED,5.1,"",0.0,AMOUNT,"",True,Carnes
-"Zapallo 1u Mega",,1.0,False,NOT_SPECIFIED,0.41,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Desinfectante Kalipto 1g Mega",,1.0,False,NOT_SPECIFIED,7.19,"",0.0,AMOUNT,"",True,Limpieza
-"Maduro Mega",,1.0,False,NOT_SPECIFIED,0.52,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Hierba buena 2u Mega",,2.0,False,NOT_SPECIFIED,0.65,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Esponja estrella  verde Mega",,1.0,False,NOT_SPECIFIED,3.0,"",0.0,AMOUNT,"",True,Hogar
-"Doña criollita sobres Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Arena gatos Alta Gama 4kg Mega",,2.0,False,NOT_SPECIFIED,8.29,"",0.0,AMOUNT,"",True,Mascotas
-"Tortitas Rojas Amarillas azules",,1.0,False,NOT_SPECIFIED,2.0,"",0.0,AMOUNT,"",False,Sin categoría
-"Maicena Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Ajo molido 250g Mega",,1.0,False,NOT_SPECIFIED,1.96,"",0.0,AMOUNT,"",True,Abarrotes
-"Champiñones Cepa 220g Mega",,1.0,False,NOT_SPECIFIED,1.46,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Fresas Mega",,1.0,False,NOT_SPECIFIED,2.4,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Chocolate Ricacao 440g Mega",,2.0,False,NOT_SPECIFIED,2.3,"",0.0,AMOUNT,"",True,Abarrotes
-"Limpiador baño Sachet Tips 500ml Mega",,1.0,False,NOT_SPECIFIED,1.57,"",0.0,AMOUNT,"",False,Limpieza
-"Nueces",,1.0,False,NOT_SPECIFIED,5.0,"",0.0,AMOUNT,"",True,Snacks
-"Huesos mascotas Mega",,1.0,False,NOT_SPECIFIED,2.15,"",0.0,AMOUNT,"",True,Mascotas
-"Agua tesalia 12u Mega",,1.0,False,NOT_SPECIFIED,3.79,"",0.0,AMOUNT,"",True,Abarrotes
-" Lavavajillas lava Mega",,2.0,False,NOT_SPECIFIED,2.54,"",0.0,AMOUNT,"",True,Limpieza
-"Lava Mega",,2.0,False,NOT_SPECIFIED,2.6,"",0.0,AMOUNT,"",True,Limpieza
-"Palo comida perros Mega",,1.0,False,NOT_SPECIFIED,1.69,"",0.0,AMOUNT,"",True,Mascotas
-"Shampoo Natural Vital 300ml cabellos rojos Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Belleza
-"Manzana roja 5u Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Almendras 150g Mega",,1.0,False,NOT_SPECIFIED,3.99,"",0.0,AMOUNT,"",True,Snacks
-"Servilletas familia mediana mega",,1.0,False,NOT_SPECIFIED,1.74,"",0.0,AMOUNT,"",True,Hogar
-"Aguacate 4u Mega",,1.0,False,NOT_SPECIFIED,1.24,"",0.0,AMOUNT,"",False,Frutas y Legumbres
-"Polvax amarillo Mega",,1.0,False,NOT_SPECIFIED,2.7,"",0.0,AMOUNT,"",True,Limpieza
-"Enjuague Bucal Listerine Sin Alcohol 1l Mega",,1.0,False,NOT_SPECIFIED,12.26,"",0.0,AMOUNT,"",True,Higene
-"Desodorante papa old spice roll onMega",,1.0,False,NOT_SPECIFIED,2.27,"",0.0,AMOUNT,"",True,Higene
-"Limon 8u Mega",,1.0,False,NOT_SPECIFIED,1.5,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Tomate riñon 8u Mega",,1.0,False,NOT_SPECIFIED,1.33,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Limon 8u Mega",,1.0,False,NOT_SPECIFIED,1.5,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Limpia escusados Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Limpieza
-"Guantes estrella olor naranja 8.5 Mega",,1.0,False,NOT_SPECIFIED,1.7,"",0.0,AMOUNT,"",True,Limpieza
-"Desinfectante Kalipto 1g Mega",,1.0,False,NOT_SPECIFIED,7.19,"",0.0,AMOUNT,"",True,Limpieza
-"Sazona pollo Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",False,Abarrotes
-"Pimienta dulce",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Alfombras Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",False,Hogar
-"Cepillos de dientes gum",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Higene
-"Manzanilla Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Zanahoria amarilla Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Lenteja Mega",,1.0,False,NOT_SPECIFIED,0.75,"",0.0,AMOUNT,"",True,Abarrotes
-"Piña 1u Mega",,1.0,False,NOT_SPECIFIED,2.9,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Azucar san carlos 2u",,1.0,False,NOT_SPECIFIED,1.77,"",0.0,AMOUNT,"",True,Abarrotes
-"Curry Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Queso parmesano mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Lacteos
-"Higado res  Mega",,1.0,False,NOT_SPECIFIED,2.19,"",0.0,AMOUNT,"",True,Carnes
-"Avena Quaquer funda Mega",,1.0,False,NOT_SPECIFIED,1.71,"",0.0,AMOUNT,"",True,Abarrotes
-"Ciruelas Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Mascarilla Natural Vital 300ml cabellos negros Mega",,1.0,False,NOT_SPECIFIED,7.76,"",0.0,AMOUNT,"",True,Belleza
-"Galletas  muu Mega",,1.0,False,NOT_SPECIFIED,1.19,"",0.0,AMOUNT,"",True,Abarrotes
-"Palos escoba Mega",,3.0,False,NOT_SPECIFIED,0.83,"",0.0,AMOUNT,"",True,Hogar
-"Remolacha Mega",,1.0,False,NOT_SPECIFIED,1.06,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Remolacha 3u Mega",,1.0,False,NOT_SPECIFIED,0.21,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Huevos medianos Mega 45 unidades",,1.0,False,NOT_SPECIFIED,4.59,"",0.0,AMOUNT,"",True,Carnes
-"Peras Mega",,1.0,False,NOT_SPECIFIED,0.7,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Huesos mascotas Mega",,1.0,False,NOT_SPECIFIED,2.15,"",0.0,AMOUNT,"",True,Mascotas
-"Pañuelos desechables Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Higene
-"Zanahorias amarilla 6u Mega",,1.0,False,NOT_SPECIFIED,0.8,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Grosellas encurtidas Mega",,1.0,False,NOT_SPECIFIED,1.27,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Sopas maggi Mega",,2.0,False,NOT_SPECIFIED,0.68,"",0.0,AMOUNT,"",True,Abarrotes
-"Galleta Huesitos pequeña perro Mega",,1.0,False,NOT_SPECIFIED,2.67,"",0.0,AMOUNT,"",True,Mascotas
-"Limpiador easy off cocina mega",,3.0,False,NOT_SPECIFIED,1.68,"",0.0,AMOUNT,"",True,Limpieza
-"Sapolio jardín Mega",,1.0,False,NOT_SPECIFIED,2.2,"",0.0,AMOUNT,"",True,Jardin
-"Perejil Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Arena gatos Alta Gama 4kg Mega",,1.0,False,NOT_SPECIFIED,8.29,"",0.0,AMOUNT,"",True,Mascotas
-"Tomate de arbol 8u Mega",,1.0,False,NOT_SPECIFIED,1.06,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Lasaña sumesa Mega",,1.0,False,NOT_SPECIFIED,3.05,"",0.0,AMOUNT,"",True,Abarrotes
-"Frambuesa Mega",,1.0,False,NOT_SPECIFIED,2.76,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Garbanzo Mega",,1.0,False,NOT_SPECIFIED,1.15,"",0.0,AMOUNT,"",True,Abarrotes
-"Clavo de olor Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Abarrotes
-"Cafe Toscana 110g Mega",,6.0,False,NOT_SPECIFIED,3.13,"",0.0,AMOUNT,"",True,Abarrotes
-"Espuma de afeitar gillete Mega",,1.0,False,NOT_SPECIFIED,3.99,"",0.0,AMOUNT,"",True,Higene
-"Leche en funda Semidescremada 1lMega",,12.0,False,NOT_SPECIFIED,0.79,"",0.0,AMOUNT,"",True,Lacteos
-"Crema de leche Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Lacteos
-"Mascarilla Natural vital 300 ml cabello rojo Mega",,1.0,False,NOT_SPECIFIED,6.4,"",0.0,AMOUNT,"",True,Limpieza
-"Zuquini mega",,1.0,False,NOT_SPECIFIED,0.45,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Gel antiseptico Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",False,Higene
-"Pala de basura mega",,1.0,False,NOT_SPECIFIED,2.0,"",0.0,AMOUNT,"",True,Limpieza
-"El Postre, el postre, el postre",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Snacks
-"Lechuga criolla Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Ajo molido 250g Mega",,1.0,False,NOT_SPECIFIED,1.92,"",0.0,AMOUNT,"",True,Abarrotes
-"Fundas megamaxi grande Mega",,2.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Hogar
-"Galleta Huesitos pequeña perro Mega",,1.0,False,NOT_SPECIFIED,2.67,"",0.0,AMOUNT,"",True,Mascotas
-"Apio Mega",,1.0,False,NOT_SPECIFIED,0.72,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Choclo mega",,1.0,False,NOT_SPECIFIED,2.11,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Guitig 300 ml Mega",,4.0,False,NOT_SPECIFIED,0.38,"",0.0,AMOUNT,"",True,Abarrotes
-"Hierbas aromaticas Mega",,1.0,False,NOT_SPECIFIED,0.0,"",0.0,AMOUNT,"",True,Frutas y Legumbres
-"Hueso Ingrid Mega",,1.0,False,NOT_SPECIFIED,1.42,"",0.0,AMOUNT,"",True,Mascotas
-"Comida de gato Roja",,1.0,False,NOT_SPECIFIED,10.0,"",0.0,AMOUNT,"",True,Mascotas
+"Naranjilla 6u Mega,,1.0,False,NOT_SPECIFIED,1.25,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Queso crema tony light Mega,,1.0,False,NOT_SPECIFIED,3.0,"""",0.0,AMOUNT,"""",True,Lacteos"
+"Desodorante papa old spice Mega,,1.0,False,NOT_SPECIFIED,4.72,"""",0.0,AMOUNT,"""",True,Higene"
+"Toallas de cocina 2u Mega,,1.0,False,NOT_SPECIFIED,2.65,"""",0.0,AMOUNT,"""",False,Limpieza"
+"Naranjas 10u Mega,,1.0,False,NOT_SPECIFIED,2.16,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Comida gatos Michu 2kg Mega,,2.0,False,NOT_SPECIFIED,5.37,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Pepinillos 2u Mega,,1.0,False,NOT_SPECIFIED,0.5,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Cereal corn flakes 110g Mea,,1.0,False,NOT_SPECIFIED,1.14,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Papaya hawayana 2u Mega,,1.0,False,NOT_SPECIFIED,0.73,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Toallas de cocina 2 en 1 Mega,,4.0,False,NOT_SPECIFIED,2.65,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Carne Molida 1u Mega,,2.0,False,NOT_SPECIFIED,5.1,"""",0.0,AMOUNT,"""",True,Carnes"
+"Zapallo 1u Mega,,1.0,False,NOT_SPECIFIED,0.41,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Desinfectante Kalipto 1g Mega,,1.0,False,NOT_SPECIFIED,7.19,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Maduro Mega,,1.0,False,NOT_SPECIFIED,0.52,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Hierba buena 2u Mega,,2.0,False,NOT_SPECIFIED,0.65,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Esponja estrella  verde Mega,,1.0,False,NOT_SPECIFIED,3.0,"""",0.0,AMOUNT,"""",True,Hogar"
+"Doña criollita sobres Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Arena gatos Alta Gama 4kg Mega,,2.0,False,NOT_SPECIFIED,8.29,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Tortitas Rojas Amarillas azules,,1.0,False,NOT_SPECIFIED,2.0,"""",0.0,AMOUNT,"""",False,Sin categoría"
+"Maicena Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Ajo molido 250g Mega,,1.0,False,NOT_SPECIFIED,1.96,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Champiñones Cepa 220g Mega,,1.0,False,NOT_SPECIFIED,1.46,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Fresas Mega,,1.0,False,NOT_SPECIFIED,2.4,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Chocolate Ricacao 440g Mega,,2.0,False,NOT_SPECIFIED,2.3,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Limpiador baño Sachet Tips 500ml Mega,,1.0,False,NOT_SPECIFIED,1.57,"""",0.0,AMOUNT,"""",False,Limpieza"
+"Nueces,,1.0,False,NOT_SPECIFIED,5.0,"""",0.0,AMOUNT,"""",True,Snacks"
+"Huesos mascotas Mega,,1.0,False,NOT_SPECIFIED,2.15,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Agua tesalia 12u Mega,,1.0,False,NOT_SPECIFIED,3.79,"""",0.0,AMOUNT,"""",True,Abarrotes"
+" Lavavajillas lava Mega,,2.0,False,NOT_SPECIFIED,2.54,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Lava Mega,,2.0,False,NOT_SPECIFIED,2.6,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Palo comida perros Mega,,1.0,False,NOT_SPECIFIED,1.69,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Shampoo Natural Vital 300ml cabellos rojos Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Belleza"
+"Manzana roja 5u Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Almendras 150g Mega,,1.0,False,NOT_SPECIFIED,3.99,"""",0.0,AMOUNT,"""",True,Snacks"
+"Servilletas familia mediana mega,,1.0,False,NOT_SPECIFIED,1.74,"""",0.0,AMOUNT,"""",True,Hogar"
+"Aguacate 4u Mega,,1.0,False,NOT_SPECIFIED,1.24,"""",0.0,AMOUNT,"""",False,Frutas y Legumbres"
+"Polvax amarillo Mega,,1.0,False,NOT_SPECIFIED,2.7,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Enjuague Bucal Listerine Sin Alcohol 1l Mega,,1.0,False,NOT_SPECIFIED,12.26,"""",0.0,AMOUNT,"""",True,Higene"
+"Desodorante papa old spice roll onMega,,1.0,False,NOT_SPECIFIED,2.27,"""",0.0,AMOUNT,"""",True,Higene"
+"Limon 8u Mega,,1.0,False,NOT_SPECIFIED,1.5,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Tomate riñon 8u Mega,,1.0,False,NOT_SPECIFIED,1.33,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Limon 8u Mega,,1.0,False,NOT_SPECIFIED,1.5,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Limpia escusados Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Guantes estrella olor naranja 8.5 Mega,,1.0,False,NOT_SPECIFIED,1.7,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Desinfectante Kalipto 1g Mega,,1.0,False,NOT_SPECIFIED,7.19,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Sazona pollo Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",False,Abarrotes"
+"Pimienta dulce,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Alfombras Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",False,Hogar"
+"Cepillos de dientes gum,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Higene"
+"Manzanilla Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Zanahoria amarilla Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Lenteja Mega,,1.0,False,NOT_SPECIFIED,0.75,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Piña 1u Mega,,1.0,False,NOT_SPECIFIED,2.9,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Azucar san carlos 2u,,1.0,False,NOT_SPECIFIED,1.77,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Curry Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Queso parmesano mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Lacteos"
+"Higado res  Mega,,1.0,False,NOT_SPECIFIED,2.19,"""",0.0,AMOUNT,"""",True,Carnes"
+"Avena Quaquer funda Mega,,1.0,False,NOT_SPECIFIED,1.71,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Ciruelas Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Mascarilla Natural Vital 300ml cabellos negros Mega,,1.0,False,NOT_SPECIFIED,7.76,"""",0.0,AMOUNT,"""",True,Belleza"
+"Galletas  muu Mega,,1.0,False,NOT_SPECIFIED,1.19,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Palos escoba Mega,,3.0,False,NOT_SPECIFIED,0.83,"""",0.0,AMOUNT,"""",True,Hogar"
+"Remolacha Mega,,1.0,False,NOT_SPECIFIED,1.06,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Remolacha 3u Mega,,1.0,False,NOT_SPECIFIED,0.21,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Huevos medianos Mega 45 unidades,,1.0,False,NOT_SPECIFIED,4.59,"""",0.0,AMOUNT,"""",True,Carnes"
+"Peras Mega,,1.0,False,NOT_SPECIFIED,0.7,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Huesos mascotas Mega,,1.0,False,NOT_SPECIFIED,2.15,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Pañuelos desechables Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Higene"
+"Zanahorias amarilla 6u Mega,,1.0,False,NOT_SPECIFIED,0.8,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Grosellas encurtidas Mega,,1.0,False,NOT_SPECIFIED,1.27,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Sopas maggi Mega,,2.0,False,NOT_SPECIFIED,0.68,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Galleta Huesitos pequeña perro Mega,,1.0,False,NOT_SPECIFIED,2.67,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Limpiador easy off cocina mega,,3.0,False,NOT_SPECIFIED,1.68,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Sapolio jardín Mega,,1.0,False,NOT_SPECIFIED,2.2,"""",0.0,AMOUNT,"""",True,Jardin"
+"Perejil Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Arena gatos Alta Gama 4kg Mega,,1.0,False,NOT_SPECIFIED,8.29,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Tomate de arbol 8u Mega,,1.0,False,NOT_SPECIFIED,1.06,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Lasaña sumesa Mega,,1.0,False,NOT_SPECIFIED,3.05,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Frambuesa Mega,,1.0,False,NOT_SPECIFIED,2.76,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Garbanzo Mega,,1.0,False,NOT_SPECIFIED,1.15,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Clavo de olor Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Cafe Toscana 110g Mega,,6.0,False,NOT_SPECIFIED,3.13,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Espuma de afeitar gillete Mega,,1.0,False,NOT_SPECIFIED,3.99,"""",0.0,AMOUNT,"""",True,Higene"
+"Leche en funda Semidescremada 1lMega,,12.0,False,NOT_SPECIFIED,0.79,"""",0.0,AMOUNT,"""",True,Lacteos"
+"Crema de leche Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Lacteos"
+"Mascarilla Natural vital 300 ml cabello rojo Mega,,1.0,False,NOT_SPECIFIED,6.4,"""",0.0,AMOUNT,"""",True,Limpieza"
+"Zuquini mega,,1.0,False,NOT_SPECIFIED,0.45,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Gel antiseptico Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",False,Higene"
+"Pala de basura mega,,1.0,False,NOT_SPECIFIED,2.0,"""",0.0,AMOUNT,"""",True,Limpieza"
+"El Postre, el postre, el postre,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Snacks"
+"Lechuga criolla Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Ajo molido 250g Mega,,1.0,False,NOT_SPECIFIED,1.92,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Fundas megamaxi grande Mega,,2.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Hogar"
+"Galleta Huesitos pequeña perro Mega,,1.0,False,NOT_SPECIFIED,2.67,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Apio Mega,,1.0,False,NOT_SPECIFIED,0.72,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Choclo mega,,1.0,False,NOT_SPECIFIED,2.11,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Guitig 300 ml Mega,,4.0,False,NOT_SPECIFIED,0.38,"""",0.0,AMOUNT,"""",True,Abarrotes"
+"Hierbas aromaticas Mega,,1.0,False,NOT_SPECIFIED,0.0,"""",0.0,AMOUNT,"""",True,Frutas y Legumbres"
+"Hueso Ingrid Mega,,1.0,False,NOT_SPECIFIED,1.42,"""",0.0,AMOUNT,"""",True,Mascotas"
+"Comida de gato Roja,,1.0,False,NOT_SPECIFIED,10.0,"""",0.0,AMOUNT,"""",True,Mascotas"
